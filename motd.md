@@ -1,4 +1,4 @@
-# Welcome to The Missing Stars Community!
+## Welcome to the Official Missing Stars Community!
 
 We're here to enjoy building and surviving big time.
 
@@ -12,27 +12,36 @@ Don't miss out! Join our [Discord](https://discord.gg/asRaJG9zCc) now :)
 
 ## GAME RULES
 
-- Treat everyone with respect, do not insult players
-- No exploit using
-- You cannot build underground and not on asteroids
-- Turn off Projections & Programmable Block and all stuff that cause impact on the performance when u go offline
-- Make sure that your grid doesnt show up on the Shift + F1 warning page
-- Use the Hangar mod to store for free your grids (no station grids)
-- All grids will be removed after 7 days of inactivity
-- Any not named grid (Large/Small/Static) will be removed automatically every hour
-- Respawn ships are set to auto-delete
-- Rules are subject to change
+* Treat everyone with respect, do not insult players
+* No exploit using
+* You cannot build underground and not on asteroids
+* Turn off Projections & Programmable Block and all stuff that cause impact on the performance when u go offline
+* Make sure that your grid doesnt show up on the Shift + F1 warning page
+* Use the Hangar mod to store for free your grids (no station grids)
+* All grids will be removed after 7 days of inactivity
+* Any not named grid (Large/Small/Static) will be removed automatically every hour
+* Respawn ships are set to auto-delete
+* Rules are subject to change
 
 ## LIMITS
 
-- 40000 Blocks & 4000000 PCU per Player is the limit
-- Vanilla turret limit is 16x per player
-- Mod turret limit is 4x per player
-- BAR is limited to 1x per player
-- Shield is limited 1x per grid
-- Limits are subject to change
+* 40000 Blocks & 4000000 PCU per Player is the limit
+* Vanilla turret limit is 16x per player
+* Mod turret limit is 4x per player
+* BAR is limited to 1x per player
+* Shield is limited 1x per grid
+* Limits are subject to change
 
 (each turret has his own limit per player. Suggestions about the limitations are always welcome) 
+
+## Vote for rewards
+
+We give everyone the option to vote for our server this supports the servers image and keeps it representative and attractive for new players.
+For voting simply simply enter !steamvote to open the ingame steam overlay and vote for the server. After doing so you can return to the game,
+and get your rewards by enter in the chat !reward.
+
+* !steamvote
+* !reward
 
 ## PvE/NPC Behaviors
 
@@ -80,15 +89,15 @@ Subject to automatic removal every once in a while:
 |Condition|Interval|
 |---|---:|
 |Grids that belong to players who have been offline|7 days|
-|No custom name (eg. “Small Grid 9583”)|20 minutes|
-|Less than 20 blocks and not powered|20 minutes|
-|NPC ships taken over by player without the name changed|20 minutes|
+|No custom name (eg. “Small Grid 9583”)|60 minutes|
+|Less than 20 blocks and not powered|15 minutes|
+|NPC ships taken over by player without the name changed|60 minutes|
 
-### Voxel/Terrain/Ores
+## Voxel/Terrain/Ores
 
 Resets every Friday (same seed). 
 
-### NPC Trading Stations
+## NPC Trading Stations
 
 Resets when Owner/Admin knocks the door of them.
 
