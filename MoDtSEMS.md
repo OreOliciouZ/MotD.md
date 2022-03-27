@@ -4,6 +4,8 @@ We're here to enjoy building and surviving big time.
 
 Don't miss out! Join our [Discord](https://discord.gg/asRaJG9zCc) now :)
 
+Vote for the [Missing Stars Server](https://space-engineers.com/server/193549/vote/) and get daily epic rewards
+
 ## Wipe Info
 
 |Last Wipe|Next Wipe|
@@ -36,8 +38,9 @@ Don't miss out! Join our [Discord](https://discord.gg/asRaJG9zCc) now :)
 ## Vote for rewards
 
 We give everyone the option to vote for our server this supports the servers image and keeps it representative and attractive for new players.
-For voting simply simply enter !steamvote to open the ingame steam overlay and vote for the server. After doing so you can return to the game,
-and get your rewards by enter in the chat !reward.
+For voting simply enter the command !steamvote in the chat, it'll open the ingame steam overlay and then you can vote for the server.
+After doing so you can close the overlay and return to the game, get your rewards by enter in the chat !reward. Informations about possible rewards
+you can find in our Discord #announcements channel.
 
 * !steamvote
 * !reward
