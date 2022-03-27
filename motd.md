@@ -7,11 +7,10 @@ Don't miss out! Join our [Discord](https://discord.gg/asRaJG9zCc) now :)
 ## Wipe Info
 
 |Last Wipe|Next Wipe|
+
 |24.03.22|No ETA|
 
-## Important Notice
-
-* GAME RULES
+## GAME RULES
 
 - Treat everyone with respect, do not insult players
 - No exploit using
@@ -20,11 +19,11 @@ Don't miss out! Join our [Discord](https://discord.gg/asRaJG9zCc) now :)
 - Make sure that your grid doesnt show up on the Shift + F1 warning page
 - Use the Hangar mod to store for free your grids (no station grids)
 - All grids will be removed after 7 days of inactivity
-- Any not named grid (Large/Small/Static) will be removed automatically every 24 hours
+- Any not named grid (Large/Small/Static) will be removed automatically every hour
 - Respawn ships are set to auto-delete
 - Rules are subject to change
 
-* Limits
+## LIMITS
 
 - 40000 Blocks & 4000000 PCU per Player is the limit
 - Vanilla turret limit is 16x per player
@@ -70,13 +69,10 @@ Following is some of general/typical measures to optimize your grids:
 
 ## Configurable Speed Limits
 
-|SpeedOmeter|
-|---|---:|---:|---:|
-|Small|500m/s|
-|Large|350m/s|
+|SmallGrids|500m/s|
+|LargeGrids|350m/s|
 
-
-### Grids
+## Grids
 
 Subject to automatic removal every once in a while:
 
