@@ -15,7 +15,6 @@ Don't miss out! Join our [Discord](https://discord.gg/asRaJG9zCc) now :)
 * Treat everyone with respect, do not insult players
 * No exploit using
 * You cannot build underground and not on asteroids
-* Turn off Projections & Programmable Block and all stuff that cause impact on the performance when u go offline
 * Make sure that your grid doesnt show up on the Shift + F1 warning page
 * Use the Hangar mod to store for free your grids (no station grids)
 * All grids will be removed after 7 days of inactivity
