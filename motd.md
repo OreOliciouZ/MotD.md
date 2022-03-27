@@ -1,4 +1,4 @@
-## Welcome to the Official Missing Stars Community!
+## Welcome to the Official Missing Stars Community
 
 We're here to enjoy building and surviving big time.
 
