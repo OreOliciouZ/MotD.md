@@ -70,6 +70,7 @@ Following is some of general/typical measures to optimize your grids:
 ## Configurable Speed Limits
 
 |SmallGrids|500m/s|
+
 |LargeGrids|350m/s|
 
 ## Grids
@@ -98,8 +99,11 @@ If u experience any kind of problems or need any help pls dont hesitate to conta
 ## Chat Commands
 
 !steamvote
+
 !reward
+
 !motd
+
 !discord
 
 For more commands pls visit our Discord https://discord.gg/asRaJG9zCc
