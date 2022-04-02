@@ -45,6 +45,35 @@ you can find in our Discord #announcements channel.
 * !steamvote
 * !reward
 
+##Donation
+
+As you maybe already know running a server like this never comes with cheap costs. It'll need a lot of time to manage it and money ofc. I pay for this server rn and never did offer people to be able to support it. But now the time slowly comes that i cant take it alone anymore and want to offer packages for the server to support on the monthly fees i have to pay.
+
+Either way i will offer now a subscription option with benefits. For now there will be only one option to donate money for the server. My PayPal account. 
+
+* For 7.50€ per month, you receive these perks on the server:
+
+- Supporter role on Discord
+- Ability to use the donators chat and voice chat, which is visible only for donators
+- Ability to write in the re-game-chat, which is the ingame chat
+- A special "Thank You" position in the donators-list Discord channel for everyone to see
+
+* For 15€ you can purchase the Dark Matter Core Keys:
+
+- You'll get 5x Dark Matter Core Keys which will give you the ability to craft the Dark Matter Core
+
+* For 50€+ you will get:
+
+- All rewards above +
+- You will get 2x SuperGates placed by me on the spot you wish, giving you the ability to warp your grids through it on the positions you've wished
+- Choose this option only with incredible generous intentions, without expecting anything back for it
+
+I am really thankfull for every support and really appreciate it.
+
+https://www.paypal.com/donate/?hosted_button_id=FVN2XNE3GQ49C
+
+Monthly cost for the server 
+
 ## PvE/NPC Behaviors
 
 We have [MES](https://steamcommunity.com/workshop/filedetails/?id=1521905890) ships flying around.
