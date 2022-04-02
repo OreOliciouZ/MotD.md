@@ -77,7 +77,7 @@ I am really thankfull for every support and really appreciate it.
 
 https://www.paypal.com/donate/?hosted_button_id=FVN2XNE3GQ49C
 
-Monthly cost for the server 
+you can check the monthly cost for the server on our discord #donation channel 
 
 ## PvE/NPC Behaviors
 
