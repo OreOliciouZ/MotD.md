@@ -53,20 +53,20 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 * For 7.50€ per month, you receive these perks on the server:
 
-- Supporter role on Discord
-- Ability to use the donators chat and voice chat, which is visible only for donators
-- Ability to write in the re-game-chat, which is the ingame chat
-- A special "Thank You" position in the donators-list Discord channel for everyone to see
+-Supporter role on Discord
+-Ability to use the donators chat and voice chat, which is visible only for donators
+-Ability to write in the re-game-chat, which is the ingame chat
+-A special "Thank You" position in the donators-list Discord channel for everyone to see
 
 * For 15€ you can purchase the Dark Matter Core Keys:
 
-- You'll get 5x Dark Matter Core Keys which will give you the ability to craft the Dark Matter Core
+-You'll get 5x Dark Matter Core Keys which will give you the ability to craft the Dark Matter Core
 
 * For 50€+ you will get:
 
-- All rewards above +
-- You will get 2x SuperGates placed by me on the spot you wish, giving you the ability to warp your grids through it on the positions you've wished
-- Choose this option only with incredible generous intentions, without expecting anything back for it
+-All rewards above +
+-You will get 2x SuperGates placed by me on the spot you wish, giving you the ability to warp your grids through it on the positions you've wished
+-Choose this option only with incredible generous intentions, without expecting anything back for it
 
 I am really thankfull for every support and really appreciate it.
 
