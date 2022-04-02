@@ -19,7 +19,7 @@ Vote for the [Missing Stars Server](https://space-engineers.com/server/193549/vo
 * You cannot build underground and not on asteroids
 * Make sure that your grid doesnt show up on the Shift + F1 warning page
 * Use the Hangar mod to store for free your grids (no station grids)
-* All grids will be removed after 7 days of inactivity
+* All grids will be autohangar after 7 days of inactivity
 * Any not named grid (Large/Small/Static) will be removed automatically every hour
 * Respawn ships are set to auto-delete
 * Rules are subject to change
