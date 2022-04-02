@@ -51,7 +51,7 @@ As you maybe already know running a server like this never comes with cheap cost
 
 Either way i will offer now a subscription option with benefits. For now there will be only one option to donate money for the server. My PayPal account. 
 
-**For 7.50€ per month, you receive these perks on the server:
+**For 7.50€ per month, you receive these perks on the server:**
 
 Supporter role on Discord
 
@@ -61,11 +61,11 @@ Ability to write in the re-game-chat, which is the ingame chat
 
 A special "Thank You" position in the donators-list Discord channel for everyone to see
 
-**For 15€ you can purchase the Dark Matter Core Keys:
+**For 15€ you can purchase the Dark Matter Core Keys:**
 
 You'll get 5x Dark Matter Core Keys which will give you the ability to craft the Dark Matter Core
 
-**For 50€+ you will get:
+**For 50€+ you will get:**
 
 All rewards above +
 
