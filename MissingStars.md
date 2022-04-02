@@ -45,7 +45,7 @@ you can find in our Discord #announcements channel.
 * !steamvote
 * !reward
 
-##Donation
+## Donation
 
 As you maybe already know running a server like this never comes with cheap costs. It'll need a lot of time to manage it and money ofc. I pay for this server rn and never did offer people to be able to support it. But now the time slowly comes that i cant take it alone anymore and want to offer packages for the server to support on the monthly fees i have to pay.
 
