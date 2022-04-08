@@ -124,7 +124,7 @@ Subject to automatic removal every once in a while:
 
 |Condition|Interval|
 |---|---:|
-|Grids that belong to players who have been offline|7 days|
+|Grids that belong to players who have been offline will be autohangar in|7 days|
 |No custom name (eg. “Small Grid 9583”)|60 minutes|
 |Less than 20 blocks and not powered|15 minutes|
 |NPC ships taken over by player without the name changed|60 minutes|
