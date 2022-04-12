@@ -18,8 +18,8 @@ Vote for the [Missing Stars Server](https://space-engineers.com/server/193549/vo
 * No exploit using
 * You cannot build underground (voxels will reset every friday)
 * Make sure that your grid doesnt show up on the Shift + F1 warning page
-* Use the Hangar mod to store for free your grids (no station grids)
-* All grids will be autohangar after 7 days of inactivity
+* Use the [Hangar](https://steamcommunity.com/sharedfiles/filedetails/?id=2015575529) mod to store for free your grids (no station grids)
+* All grids will be [autohangar](https://steamcommunity.com/sharedfiles/filedetails/?id=2015575529) after 7 days of inactivity
 * [B&R](https://steamcommunity.com/sharedfiles/filedetails/?id=857053359) only on station grids allowed
 * Any not named grid (Large/Small/Static) will be removed automatically every hour
 * Respawn ships are set to auto-delete
