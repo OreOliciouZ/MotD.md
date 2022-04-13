@@ -33,7 +33,6 @@ Vote for the [Missing Stars Server](https://space-engineers.com/server/193549/vo
 * Mod turret limit is 4x per player
 * BAR is limited to 1x per player
 * Shield is limited 1x per grid
-* Projector is limited 1x per player (projecting blocks limit 500)
 * Limits are subject to change
 
 (each turret has his own limit per player. Suggestions about the limitations are always welcome) 
