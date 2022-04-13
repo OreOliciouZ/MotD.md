@@ -16,6 +16,7 @@ Vote for the [Missing Stars Server](https://space-engineers.com/server/193549/vo
 
 * Treat everyone with respect, do not insult players
 * No exploit using
+* No offline player grid raids
 * You cannot build underground (voxels will reset every friday)
 * Make sure that your grid doesnt show up on the Shift + F1 warning page
 * Use the [Hangar](https://steamcommunity.com/sharedfiles/filedetails/?id=2015575529) mod to store for free your grids (no station grids)
