@@ -73,7 +73,7 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 * You will get 2x SuperGates placed by me on the spot you wish, giving you the ability to warp your grids through it on the positions you've wished
 
-* Choose this option only with incredible generous intentions, without expecting anything back for it
+  choose this option only with incredible generous intentions, without expecting anything back for it
 
 I am really thankfull for every support and really appreciate it.
 
