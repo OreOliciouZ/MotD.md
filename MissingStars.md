@@ -29,9 +29,9 @@ Vote for the [Missing Stars Server](https://space-engineers.com/server/193549/vo
 ## LIMITS
 
 * No Block & PCU limits
-* Vanilla turret limit is 16x per player
-* Mod turret limit is 4x per player
-* BAR is limited to 1x per player
+* Each Vanilla turrets limit is 4x per player
+* Each Mod turrets limit is 4x per player
+* [B&R](https://steamcommunity.com/sharedfiles/filedetails/?id=857053359) is limited to 1x per player
 * Shield is limited 1x per grid
 * Limits are subject to change
 
