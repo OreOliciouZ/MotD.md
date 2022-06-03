@@ -10,7 +10,7 @@ Vote for the [Missing Stars Server](https://space-engineers.com/server/193549/vo
 
 |Last Wipe|Next Wipe|
 
-|24.04.2022|31.05.2022|
+|31.05.2022|No ETA|
 
 ## GAME RULES
 
@@ -21,7 +21,6 @@ Vote for the [Missing Stars Server](https://space-engineers.com/server/193549/vo
 * Make sure that your grid doesnt show up on the Shift + F1 warning page
 * Use the [Hangar](https://steamcommunity.com/sharedfiles/filedetails/?id=2015575529) mod to store for free your grids (no station grids)
 * All grids will be autohangar after 7 days of inactivity
-* [B&R](https://steamcommunity.com/sharedfiles/filedetails/?id=857053359) only on station grids allowed
 * Any not named grid (Large/Small/Static) will be removed automatically every hour
 * Respawn ships are set to auto-delete
 * Rules are subject to change
