@@ -93,7 +93,8 @@ Make sure to set up some auto turrets from early on!
 ## PvP Rules
 
 - Treat each other with respect
-- Fair fight (no offline raids)
+- Fair fight
+- No offline raids
 
 ## Plugins
 
