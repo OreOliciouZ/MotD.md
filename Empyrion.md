@@ -37,11 +37,11 @@ For voting simply enter the command !steamvote in the chat, it'll open the ingam
 After doing so you can close the overlay and return to the game, get your rewards by enter in the chat !reward. Informations about possible rewards
 you can find in our Discord #announcements channel.
 
-/votereward
-/votelottery
-/voteforstat health
-/voteforstat stamina
-/voteforstat food
+* /votereward
+* /votelottery
+* /voteforstat health
+* /voteforstat stamina
+* /voteforstat food
 
 one command per vote possible, resets every 24h after the vote
 
