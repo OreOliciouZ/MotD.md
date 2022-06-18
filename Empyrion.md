@@ -19,7 +19,7 @@ Vote for the [Missing Stars Server](https://empyrion-servers.com/server/53641/vo
 * You can use the [Virtual Backpack](https://github.com/GitHub-TC/EmpyrionBackpackExtender) to store your stuff, its wipe safe
 * All structures will be deleted after 30 days of inactivity
 * Place more then 10 blocks once you place a structure, else it will be removed
-* Pods are set to auto delete
+* New Player spawn pods are set to auto delete
 * Rules are subject to change
 
 ## LIMITS
