@@ -61,7 +61,7 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 * A special "Thank You" position in the donators-list Discord channel for everyone to see
 
-**For 10.00€ you can purchase the Dark Matter Core Keys:**
+**For 10.00€ you can purchase the NPC Core:**
 
 * You'll get 1x NPC Core which you can place on any build of your choice base/small vessel/large vessel. Once placed it wont consume any fuel or oxygen and runs unlimited
 
