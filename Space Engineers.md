@@ -131,7 +131,7 @@ Subject to automatic removal every once in a while:
 
 ## Voxel/Terrain/Ores
 
-Resets every Friday (same seed). 
+Resets every Friday (same seed) 
 
 ## NPC Trading Stations
 
