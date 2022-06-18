@@ -84,9 +84,7 @@ you can check the monthly cost for the server on our discord #donation channel
 We have the [Reforged Eden](https://steamcommunity.com/workshop/filedetails/?id=2550354956) scenario on our server.
 Quick info about:
 
-* This scenario has much more content to deliver compared to the vanilla game which makes it to a real challenge
-
-Make sure to set up some auto turrets from early on!
+* This scenario has much more content to deliver compared to the vanilla game which makes it to a real challenge so make sure to set up some auto turrets from early on!
 
 ## PvP Rules
 
