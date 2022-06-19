@@ -101,9 +101,9 @@ Subject to automatic removal every once in a while:
 |Structures with less than 10 blocks|12 hours|
 |NPC ships taken over by player without core|12 hours|
 
-## POI's and Ore Deposits
+## POI's
 
-Resets every day
+Reset every day
 
 ## Support
 
