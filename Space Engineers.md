@@ -137,10 +137,6 @@ Resets every Friday (same seed)
 
 Resets when Owner/Admin knocks the door of them.
 
-## Support
-
-If u experience any kind of problems or need any help pls dont hesitate to contact us ms.missingstars@gmail.com
-
 ## Chat Commands
 
 !steamvote
@@ -152,5 +148,7 @@ If u experience any kind of problems or need any help pls dont hesitate to conta
 !discord
 
 For more commands pls visit our Discord https://discord.gg/asRaJG9zCc
+
+## Support
 
 If u experience any kind of problems or need any help pls dont hesitate to contact us ms.missingstars@gmail.com
