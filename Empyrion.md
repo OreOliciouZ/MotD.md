@@ -107,7 +107,7 @@ Reset every day
 
 ## Support
 
-If u experience any kind of problems or need any help pls dont hesitate to contact us ms.missingstars@gmail.com
-
-
 For more commands pls visit our Discord https://discord.gg/asRaJG9zCc
+
+
+If u experience any kind of problems or need any help pls dont hesitate to contact us ms.missingstars@gmail.com
