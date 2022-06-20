@@ -105,9 +105,10 @@ Subject to automatic removal every once in a while:
 
 Reset every day
 
+## Chat Commands
+
+For more commands please visit our [Discord](https://discord.gg/asRaJG9zCc)
+
 ## Support
 
-For more commands pls visit our Discord https://discord.gg/asRaJG9zCc
-
-
-If u experience any kind of problems or need any help pls dont hesitate to contact us ms.missingstars@gmail.com
+If you experience any kind of problems or need any help please dont hesitate to contact us ms.missingstars@gmail.com
