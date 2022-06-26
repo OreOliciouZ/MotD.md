@@ -98,6 +98,8 @@ Make sure to set up some auto turrets from early on!
 
 ## PvE and PvP Worlds
 
+|Worlds|PvE/PvP|
+|---|---:|
 |EarthLike|PvE|
 |Terra|PvE|
 |Triton|PvP|
