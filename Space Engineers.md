@@ -114,6 +114,7 @@ Make sure to set up some auto turrets from early on!
 |Gea|PvP|
 |KL-136|PvP|
 |Trelan|PvP|
+|GoldenZenon|PvP|
 
 ## Plugins
 
