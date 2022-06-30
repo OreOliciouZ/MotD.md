@@ -96,26 +96,6 @@ Make sure to set up some auto turrets from early on!
 - Fair fight
 - No offline raids
 
-## PvE and PvP Worlds
-
-|Worlds|PvE/PvP|
-|---|---:|
-|EarthLike|PvE|
-|Terra|PvE|
-|Triton|PvP|
-|Mars|PvP|
-|Takua|PvP|
-|Lithios|PvP|
-|Titan|PvP|
-|Moon|PvP|
-|Alien|PvP|
-|Europa|PvP|
-|Caldera|PvP|
-|Gea|PvP|
-|KL-136|PvP|
-|Trelan|PvP|
-|GoldenZenon|PvP|
-
 ## Plugins
 
 * Programmable blocks will "overheat" if the computation takes 0.3ms per frame.
