@@ -115,8 +115,9 @@ Following is some of general/typical measures to optimize your grids:
 
 ## Configurable Speed Limits
 
+|Structure|Speed|
+|---|---:|
 |SmallGrids|500m/s|
-
 |LargeGrids|350m/s|
 
 ## Grids
