@@ -99,7 +99,6 @@ Subject to automatic removal every once in a while:
 
 |Condition|Interval|
 |---|---:|
-|Respawn pods|6am/6pm|
 |Player structures with less than 10 blocks|6am/6pm|
 |Player structures inside POI's or Ore Deposits|6am/6pm|
 |NPC ships taken over by player without core|6am/6pm|
