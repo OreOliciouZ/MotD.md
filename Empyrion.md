@@ -100,14 +100,33 @@ Subject to automatic removal every once in a while:
 |Condition|Interval|
 |---|---:|
 |Player structures with less than 10 blocks|6am/6pm|
-|Player structures inside POI's or Ore Deposits Starter Planets|6am/6pm|
+|Player structures inside POI's or Ore Deposits in starter planets|6am/6pm|
 |NPC ships taken over by player without core|6am/6pm|
 
 ## POI's and Ore Deposits
 
-All POI's reset every restart and all ore deposits on the starter planets reset on each restart on following planets Haven,Akua,Tallodar,Roggery,Omicron,Uai,Ningues,Pandora,Oscutune,Sienna,Masperon,Purgatory,Dread,Rogue J-5565,Rogue PX-37,Sharee
+All POI's in the entire universe reset at 6am/6pm GMT+1
 
-* PLEASE DO NOT PLACE AUTOMINERS IN THE STARTER PLANETS OR THEY WILL BE LOST WHEN THE ORE DEPOSIT RESET KICKS IN AT SERVER RESTARTS!
+All ore deposits on the starter planets reset on following planets 
+|---|---:|
+|Haven|6am/6pm GMT+1|
+|Akua|6am/6pm GMT+1|
+|Tallodar|6am/6pm GMT+1|
+|Roggery|6am/6pm GMT+1|
+|Omicron|6am/6pm GMT+1|
+|Uai|6am/6pm GMT+1|
+|Ningues|6am/6pm GMT+1|
+|Pandora|6am/6pm GMT+1|
+|Oscutune|6am/6pm GMT+1|
+|Sienna|6am/6pm GMT+1|
+|Masperon|6am/6pm GMT+1|
+|Purgatory|6am/6pm GMT+1|
+|Dread|6am/6pm GMT+1|
+|Rogue J-5565|6am/6pm GMT+1|
+|Rogue PX-37|6am/6pm GMT+1|
+|Sharee|6am/6pm GMT+1|
+
+PLEASE DO NOT PLACE AUTOMINERS IN THE STARTER PLANETS OR THEY WILL BE LOST WHEN THE ORE DEPOSIT RESET KICKS IN AT SERVER RESTARTS!
 
 ## Chat Commands
 
