@@ -130,19 +130,19 @@ The chatbot is provided by Eleon and HWS to make things easier in the game
 
 For information dialogue in the game enter cb:
 
-cb:time
-cb:reset
-cb:survival
-cb:getshipdown:ID
-cb:getshiphere:ID
-cb:gotoship:ID
-cb:destroy:ID
-cb:w:Player Name or ID
-cb:fm:Faction Message
-cb:nextwipe:Days
-cb:wipe
-cb:nextrestart:Days
-cb:startjobs
+* cb:time
+* cb:reset
+* cb:survival
+* cb:getshipdown:ID
+* cb:getshiphere:ID
+* cb:gotoship:ID
+* cb:destroy:ID
+* cb:w:Player Name or ID
+* cb:fm:Faction Message
+* cb:nextwipe:Days
+* cb:wipe
+* cb:nextrestart:Days
+* cb:startjobs
 
 ## PvE/NPC Behaviors
 
@@ -150,6 +150,7 @@ We have the [Reforged Eden](https://steamcommunity.com/workshop/filedetails/?id=
 Quick info about:
 
 * This scenario has much more content to deliver compared to the vanilla game which makes it to a real challenge so make sure to set up some auto turrets from early on!
+* For a decent starter kit enter cb:survival (one time use! You can reset it once in a while with cb:reset to start your game again from zero)
 
 ## PvP Rules
 
