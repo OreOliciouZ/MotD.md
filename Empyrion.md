@@ -81,6 +81,16 @@ https://www.paypal.com/donate/?hosted_button_id=FVN2XNE3GQ49C
 
 you can check the monthly cost for the server on our discord #donation channel 
 
+##Virtual Backpack
+
+The [Virtual Backpack](https://github.com/GitHub-TC/EmpyrionBackpackExtender) is a wipe safe backpack for usage following commands are available:
+
+enter /vb help to open help and commands dialog window
+enter /vb buy to purchase one virtual backpack (1mio Credits each)
+enter /vb 1 for the first backpack /vb 2 for the second and /vb 3 for the third one /vb will always open the last used backpack
+
+(this commands do have a cooldown of 10 seconds)
+
 ## PvE/NPC Behaviors
 
 We have the [Reforged Eden](https://steamcommunity.com/workshop/filedetails/?id=2550354956) scenario on our server.
