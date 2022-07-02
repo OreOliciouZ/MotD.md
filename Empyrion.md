@@ -124,6 +124,26 @@ For information dialogue in the game enter /vb help
 
 (this commands do have a cooldown of 10 seconds)
 
+## Chatbot options
+
+The chatbot is provided by Eleon and HWS to make things easier in the game
+
+For information dialogue in the game enter cb:
+
+cb:time
+cb:reset
+cb:survival
+cb:getshipdown:ID
+cb:getshiphere:ID
+cb:gotoship:ID
+cb:destroy:ID
+cb:w:Player Name or ID
+cb:fm:Faction Message
+cb:nextwipe:Days
+cb:wipe
+cb:nextrestart:Days
+cb:startjobs
+
 ## PvE/NPC Behaviors
 
 We have the [Reforged Eden](https://steamcommunity.com/workshop/filedetails/?id=2550354956) scenario on our server.
