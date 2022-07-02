@@ -108,7 +108,7 @@ The [Virtual Backpack](https://github.com/GitHub-TC/EmpyrionBackpackExtender) is
 * The faction backpack (/fb) will be accessible for faction members if purchased for faction 
 * The virtual backpack (/vb /vb 1 /vb 2 /vb 3) is a personal backpack which is only accessible private. The command (/vb) will always open the last used backpack
 
-This backpacks also stop the spoil timer of items and has no weight limit
+This backpacks also does stop the spoil timer of items and has no weight limit
 
 For information dialogue in the game enter /vb help
 
