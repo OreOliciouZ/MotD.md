@@ -37,9 +37,9 @@ For daily voting on our [Missing Stars]https://empyrion-servers.com/server/53641
 * You have the choice to raise your HP, Stamina or Food consume by 100 for each vote max value for stats is 10000 each
 
 Gain following items for votes:
-* 5 Emergency Ration, 10 Fusion Hydro Cell, 10 Oxygen Canister##
-* 100 Iron Ore + 100 Copper Ore + 100 Silicon Ore##
-* 100 Gold Ingot##
+* 5 Emergency ration, 10 Fusion hydro cell, 10 Oxygen canister
+* 100 Iron ore + 100 Copper ore + 100 Silicon ore
+* 100 Gold ingot + 10 Pentaxid raw
 
 Gain possible following items for lottery:
 * 1000 of Iron Ingots, Copper Ingots, Silicon Ingots, Cobalt Ingots, Magnesium Powder, Aluminium Powder, Promethium Pellets, Sathium Ingots, Neodymium Ingots, Erestrum Ingots, Zascosium Ingots, Gold Ingots or Platinium Ingots
