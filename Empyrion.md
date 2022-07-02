@@ -58,11 +58,11 @@ Gain possible following items for lottery:
 
 For information dialogue in the game enter /vote help
 
-/votereward
-/votelottery
-/voteforstat health
-/voteforstat stamina
-/voteforstat food
+* /votereward
+* /votelottery
+* /voteforstat health
+* /voteforstat stamina
+* /voteforstat food
 
 one command per vote possible, resets every 24h after the vote
 
