@@ -99,9 +99,9 @@ Subject to automatic removal every once in a while:
 
 |Condition|Interval|
 |---|---:|
-|Player structures with less than 10 blocks|6am/6pm|
-|Player structures inside POI's or Ore Deposits in starter planets|6am/6pm|
-|NPC ships taken over by player without core|6am/6pm|
+|Player structures with less than 10 blocks|6am/6pm GMT+1|
+|Player structures inside POI's or Ore Deposits in starter planets|6am/6pm GMT+1|
+|NPC ships taken over by player without core|6am/6pm GMT+1|
 
 ## POI's and Ore Deposits
 
