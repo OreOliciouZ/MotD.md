@@ -102,7 +102,7 @@ you can check the monthly cost for the server on our discord #donation channel
 
 ## Virtual Backpack
 
-The [Virtual Backpack](https://github.com/GitHub-TC/EmpyrionBackpackExtender) is a wipe safe backpack. Each backpack of max 3 costs 1 million credits and consists out of 49 slots each slot with a stacksize of 1 million. This backpack also stops the spoil timer of items that have a spoil timer and has no weight limit. The global (/gb) and origin (/ob) backpack are accessible for everyone on the server. The faction backpack (/fb) will be accessible for faction members if purchased for faction. The virtual backpack (/vb /vb 1 /vb 2 /vb 3) is a personal backpack which is only accessible private. The command (/vb) will always open the last used backpack.
+The [Virtual Backpack](https://github.com/GitHub-TC/EmpyrionBackpackExtender) is a wipe safe backpack. Each backpack costs 1 million credits and consists out of 49 slots each slot with a stacksize of 1 million. This backpack also stops the spoil timer of items that have a spoil timer and has no weight limit. The global (/gb) and origin (/ob) backpack are accessible for everyone on the server. The faction backpack (/fb) will be accessible for faction members if purchased for faction. The virtual backpack (/vb /vb 1 /vb 2 /vb 3) is a personal backpack which is only accessible private. The command (/vb) will always open the last used backpack.
 
 For information dialogue in the game enter /vb help
 
