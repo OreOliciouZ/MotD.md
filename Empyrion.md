@@ -32,7 +32,7 @@ Vote for the [Missing Stars Server](https://empyrion-servers.com/server/53641/vo
 
 ## Vote for rewards
 
-For daily voting on our [Missing Stars]https://empyrion-servers.com/server/53641/vote/ server page, you can receive following rewards:
+For daily voting on our [Missing Stars Server](https://empyrion-servers.com/server/53641/vote/) server page, you can receive following rewards:
 
 You have the choice to raise 
 
