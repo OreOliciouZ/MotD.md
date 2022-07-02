@@ -32,18 +32,30 @@ Vote for the [Missing Stars Server](https://empyrion-servers.com/server/53641/vo
 
 ## Vote for rewards
 
-We give everyone the option to vote for our server this supports the servers image and keeps it representative and attractive for new players.
-For voting simply enter the command !steamvote in the chat, it'll open the ingame steam overlay and then you can vote for the server.
-After doing so you can close the overlay and return to the game, get your rewards by enter in the chat !reward. Informations about possible rewards
-you can find in our Discord #announcements channel.
+For daily voting on our [Missing Stars]https://empyrion-servers.com/server/53641/vote/ server page, you can receive following rewards:
+
+* You have the choice to raise your HP, Stamina or Food consume by 100 for each vote max value for stats is 10000 each
+
+Gain following items for votes:
+* 5 Emergency Ration, 10 Fusion Hydro Cell, 10 Oxygen Canister##
+* 100 Iron Ore + 100 Copper Ore + 100 Silicon Ore##
+* 100 Gold Ingot##
+
+Gain possible following items for lottery:
+* 1000 of Iron Ingots, Copper Ingots, Silicon Ingots, Cobalt Ingots, Magnesium Powder, Aluminium Powder, Promethium Pellets, Sathium Ingots, Neodymium Ingots, Erestrum Ingots, Zascosium Ingots, Gold Ingots or Platinium Ingots
+* 1 Drill (Epic)
+* 1 Automining Device (Epic)
+* 1 Durable Heavy Armor (Epic)
+* 1 Weapon out of 9 available (Epic)
+* 1 Radioisotope Generator (Ultrarare)
 
 For information dialogue in the game enter /vote help
 
-* /votereward
-* /votelottery
-* /voteforstat health
-* /voteforstat stamina
-* /voteforstat food
+/votereward
+/votelottery
+/voteforstat health
+/voteforstat stamina
+/voteforstat food
 
 one command per vote possible, resets every 24h after the vote
 
@@ -83,11 +95,19 @@ you can check the monthly cost for the server on our discord #donation channel
 
 ## Virtual Backpack
 
-The [Virtual Backpack](https://github.com/GitHub-TC/EmpyrionBackpackExtender) is a wipe safe backpack for usage following commands are available:
+The [Virtual Backpack](https://github.com/GitHub-TC/EmpyrionBackpackExtender) is a wipe safe backpack
 
-enter /vb help to open help and commands dialog window
-enter /vb buy to purchase one virtual backpack (1mio Credits each)
-enter /vb 1 for the first backpack /vb 2 for the second and /vb 3 for the third one /vb will always open the last used backpack
+For information dialogue in the game enter /vb help
+
+* /vb buy
+* /vb
+* /vb 1
+* /vb 2
+* /vb 3
+* /gb
+* /ob
+* /fb buy
+* /fb
 
 (this commands do have a cooldown of 10 seconds)
 
