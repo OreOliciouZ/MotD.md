@@ -24,10 +24,10 @@ Vote for the [Missing Stars Server](https://empyrion-servers.com/server/53641/vo
 
 ## LIMITS
 
-* No Block & PCU limits
-* Size Class limit 100
-* Each turrets have their own limitations, you can check them in the item description
-* Shield is limited to 1x per structure
+* No Weight limit and item stack size 50k
+* No Size Class limits
+* CPU enabled with max 100 Quantum Cores and max 100 Auxillary Cores
+* For Turret Limits read the description of the Turret
 * Limits are subject to change
 
 ## Vote for rewards
