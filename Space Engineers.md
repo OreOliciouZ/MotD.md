@@ -2,7 +2,7 @@
 
 We're here to enjoy building and surviving big time.
 
-Don't miss out! Join our [Discord](https://discord.gg/asRaJG9zCc) now :)
+Don't miss out! Join our [Discord](https://discord.gg/missingstars) now :)
 
 Vote for the [Missing Stars Server](https://space-engineers.com/server/193549/vote/) and get daily epic rewards
 
