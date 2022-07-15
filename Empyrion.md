@@ -138,7 +138,7 @@ For information dialogue in the game enter /factory help
 
 ## Chatbot options
 
-The chatbot is provided by Eleon and HWS to make things easier in the game
+The chatbot is provided by [Eleon](http://www.eleon-studios.com/) and [HWS](https://empyrion-homeworld.net/) to make things easier in the game
 
 For information dialogue in the game enter cb:
 
