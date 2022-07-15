@@ -126,6 +126,16 @@ For information dialogue in the game enter /vb help
 
 (this commands do have a cooldown of 10 seconds)
 
+## Factory Dealer
+
+The [Factory Dealer](https://github.com/GitHub-TC/EmpyrionFactoryDealer) allows additional functions for the blueprint factory. The immediate completion of the blueprint in exchange for credits or the release of the stored resources you have put in.
+
+For information dialogue in the game enter /factory help
+
+* /factory finish
+* /factory buyall
+* /factory getall
+
 ## Chatbot options
 
 The chatbot is provided by Eleon and HWS to make things easier in the game
