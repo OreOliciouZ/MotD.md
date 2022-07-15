@@ -80,7 +80,7 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 * Ability to use the donators chat and voice chat, which is visible only for donators
 
-* Ability to write in the re-game-chat, which is the ingame chat
+* Ability to write in the game-chat, which is the ingame chat
 
 * A special "Thank You" position in the donators-list Discord channel for everyone to see
 
