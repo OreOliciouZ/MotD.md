@@ -5,4 +5,4 @@ Missing Stars is dedicated to provide high quality and top performance game serv
 
 [Discord](https://discord.gg/missingstars)
 
-[Support Mail](ms.missingstars@gmail.com)
+[Support Mail](mailto: ms.missingstars@gmail.com)
