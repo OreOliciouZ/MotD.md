@@ -149,7 +149,7 @@ Resets when Owner/Admin knocks the door of them.
 
 !discord
 
-For more commands please visit our [Discord](https://discord.gg/asRaJG9zCc)
+For more commands please visit our [Discord](https://discord.gg/missingstars)
 
 ## Support
 
