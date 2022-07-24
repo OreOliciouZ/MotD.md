@@ -208,7 +208,7 @@ PLEASE DO NOT PLACE AUTOMINERS IN THE STARTER PLANETS OR THEY WILL BE LOST WHEN 
 
 ## Chat Commands
 
-For more commands please visit our [Discord](https://discord.gg/asRaJG9zCc)
+For more commands please visit our [Discord](https://discord.gg/missingstars)
 
 ## Support
 
