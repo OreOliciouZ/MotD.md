@@ -2,7 +2,7 @@
 
 We're here to enjoy building and surviving big time.
 
-Don't miss out! Join our [Discord](https://discord.gg/missingstars) now :)
+Don't miss out! Join our [Discord](https://discord.gg/asRaJG9zCc) now :)
 
 Vote for the [Missing Stars Server](https://empyrion-servers.com/server/53641/vote/) and get daily epic rewards
 
@@ -208,7 +208,7 @@ PLEASE DO NOT PLACE AUTOMINERS IN THE STARTER PLANETS OR THEY WILL BE LOST WHEN 
 
 ## Chat Commands
 
-For more commands please visit our [Discord](https://discord.gg/missingstars)
+For more commands please visit our [Discord](https://discord.gg/asRaJG9zCc)
 
 ## Support
 
