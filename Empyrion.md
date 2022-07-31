@@ -25,7 +25,7 @@ Vote for the [Missing Stars Server](https://empyrion-servers.com/server/53641/vo
 ## LIMITS
 
 * No Weight and Volume limits
-* Advanced Jetpack Booster 4 times in armor gives unlimited usage
+* Advanced Jetpack Booster 4 times in armor gives unlimited jetpack usage
 * Item Stacks Size 50000
 * Solar Panels limit 32
 * Turret limits raised to 24
