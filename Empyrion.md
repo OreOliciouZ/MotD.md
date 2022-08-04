@@ -93,9 +93,7 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 * All rewards above +
 
-* One Virtual Backpack with 49 slots and 1mio stack size for each slot
-
-  Choose this options only with incredible generous intentions
+* One Virtual Backpack with 49 slots and 1mio stack size for each slot, choose this options only with incredible generous intentions
   
 I am really thankfull for every support and really appreciate it.
 
