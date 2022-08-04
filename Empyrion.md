@@ -108,8 +108,9 @@ Either way i will offer now a subscription option with benefits. For now there w
 * 3x Large or Small Quantum Extender
 
 * 3x Large or Small Auxillary Extender
-  
-I am really thankfull for every support and really appreciate it.
+
+Choose these options only with incredible generous intentions
+I am really thankfull for every support and really appreciate it!
 
 https://www.paypal.com/donate/?hosted_button_id=FVN2XNE3GQ49C
 
