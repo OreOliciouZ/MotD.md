@@ -75,7 +75,7 @@ As you maybe already know running a server like this never comes with cheap cost
 
 Either way i will offer now a subscription option with benefits. For now there will be only one option to donate money for the server. My PayPal account. 
 
-**For 5.00€ per month, you receive these perks on the server:**
+**For 5.00€ per month you receive the Donator rank:**
 
 * Supporter role on Discord
 
@@ -85,15 +85,29 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 * A special "Thank You" position in the donators-list Discord channel for everyone to see
 
-**For 10.00€ you can purchase the NPC Core:**
+* 50x Advanced Construction Units
 
-* You'll get 1x NPC Core which you can place on any build of your choice base/small vessel/large vessel. Once placed it wont consume any fuel or oxygen and runs unlimited
+**For 10.00€ you can purchase:**
+
+* includes the perks & reward of Donator rank for 1 month (5€)
+
+* 1x NPC Core
+
+* 1x Large or Small Quantum Extender
+
+* 1x Large or Small Auxillary Extender
 
 **For 25.00€+ you will get:**
 
-* All rewards above +
+* includes the perks & reward of Donator rank for 3 month  (5€)
 
-* One Virtual Backpack with 49 slots and 1mio stack size for each slot, choose this options only with incredible generous intentions
+* 1x Virtual Backpack (Max 3 available)
+
+* 2x NPC Core
+
+* 3x Large or Small Quantum Extender
+
+* 3x Large or Small Auxillary Extender
   
 I am really thankfull for every support and really appreciate it.
 
