@@ -95,8 +95,8 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 * One Virtual Backpack with 49 slots and 1mio stack size for each slot
 
-  Choose this options only with incredible generous intentions, without expecting anything back for it
-
+  Choose this options only with incredible generous intentions
+  
 I am really thankfull for every support and really appreciate it.
 
 https://www.paypal.com/donate/?hosted_button_id=FVN2XNE3GQ49C
