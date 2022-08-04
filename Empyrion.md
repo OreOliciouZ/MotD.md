@@ -47,12 +47,12 @@ by 100 for each vote max value for stats is 10000 each
 
 Gain following items for votes:
 
-* 5 Emergency ration, 10 Fusion hydro cell, 10 Oxygen canister
-100 Iron ore + 100 Copper ore + 100 Silicon ore
-100 Gold ingot + 10 Pentaxid raw
+* 10 Emergency ration, 100 Fusion hydro cell, 20 Oxygen canister
+1000 Iron ore, 1000 Copper ore, 1000 Silicon ore
+1000 Gold ingot, 100 Pentaxid raw
 
 Gain possible following items for lottery:
-* 1000 of Iron ingots, Copper ingots, Silicon ingots, Cobalt ingots, Magnesium powder, Aluminium powder, Promethium pellets, Sathium ingots, Neodymium ingots, Erestrum ingots, Zascosium ingots, Gold ingots or Platinium ingots
+* 4000 of Iron ingots, Copper ingots, Silicon ingots, Cobalt ingots, Magnesium powder, Aluminium powder, Promethium pellets, Sathium ingots, Neodymium ingots, Erestrum ingots, Zascosium ingots, Gold ingots or Platinium ingots
 * 1 Drill (Epic)
 * 1 Automining Device (Epic)
 * 1 Durable Heavy Armor (Epic)
