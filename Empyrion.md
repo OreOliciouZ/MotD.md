@@ -192,7 +192,7 @@ Subject to automatic removal every once in a while:
 |Player structures inside POI's or Ore Deposits in starter planets|6am/6pm GMT+1|
 |NPC structures taken over by player|6am/6pm GMT+1|
 
-## POI's and Ore Deposits
+## POIs and Ore Deposits
 
 All POI's in the entire universe reset at 6am/6pm GMT+1
 
