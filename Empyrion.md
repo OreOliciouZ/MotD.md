@@ -82,6 +82,8 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 * A special "Thank You" position in the donators-list Discord channel for everyone to see
 
+* A special role and channel for your faction which also reflects the faction-game-chat in the Discord
+
 * 50x Advanced Construction Units
 
 **For 10.00€ you can purchase:**
