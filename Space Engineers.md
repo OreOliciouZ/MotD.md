@@ -71,7 +71,7 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 * All rewards above +
 
-* You will get 2x SuperGates placed by me on the spot you wish, giving you the ability to warp your grids through it on the positions you've wished.
+* You will get 2x Super Stargates placed by me on the spot you wish, giving you the ability to warp your grids through it on the positions you've wished
 
   Choose this options only with incredible generous intentions
 
