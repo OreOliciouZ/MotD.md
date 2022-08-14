@@ -77,6 +77,8 @@ Choose this options only with incredible generous intentions
 
 I am really thankfull for every support and really appreciate it.
 
+PLEASE WRITE IN THE INFORMATION SECTION YOUR IGN AND WHICH GAME
+
 https://www.paypal.com/donate/?hosted_button_id=FVN2XNE3GQ49C
 
 you can check the monthly cost for the server on our discord #donation channel 
