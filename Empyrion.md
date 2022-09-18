@@ -25,11 +25,8 @@ Vote for the [Missing Stars Server](https://empyrion-servers.com/server/53641/vo
 
 * No Weight and Volume limits
 * Advanced Jetpack Booster 4 times in armor gives unlimited jetpack usage
-* Item Stacks Size 50000
-* Solar Panels limit 32
-* Turret limits raised to 24
 * No Size Class limits
-* CPU enabled with max 100 Quantum Cores and max 100 Auxillary Cores
+* CPU enabled with unlimited Quantum Cores
 * Limits are subject to change
 
 ## Vote for rewards
