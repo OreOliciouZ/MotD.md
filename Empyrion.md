@@ -23,9 +23,10 @@ Vote for the [Missing Stars Server](https://empyrion-servers.com/server/53641/vo
 
 ## LIMITS
 
-* No Weight and Volume limits
+* Weight and Volume limits are on with special cargo boosters
 * Advanced Jetpack Booster 4 times in armor gives unlimited jetpack usage
-* No Size Class limits
+* PvE playfields have no size class limits
+* [PvP](https://github.com/OreOliciouZ/MotD.md/blob/main/Empyrion.md#pvp-rules) playfields have strict size class limits
 * CPU enabled with unlimited Quantum Cores
 * Limits are subject to change
 
