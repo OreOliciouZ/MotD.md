@@ -200,9 +200,7 @@ Subject to automatic removal every once in a while:
 
 ## POIs and Ore Deposits
 
-All POI's in the entire universe reset at 6am/6pm GMT+1
-
-All ore deposits on the starter planets reset on following planets
+All POI's & all ore deposits on the starter planets reset at
 
 |Planet|Interval|
 |---|---:|
