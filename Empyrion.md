@@ -86,7 +86,7 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 **For 10.00€ you can purchase:**
 
-* includes the perks & reward of Donator rank for 1 month (5€)
+* includes the perks & rewards of Donator rank
 
 * 1x NPC Core
 
@@ -96,7 +96,7 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 **For 25.00€+ you will get:**
 
-* includes the perks & reward of Donator rank for 3 month  (5€)
+* includes the perks & rewards of Donator rank
 
 * 1x Virtual Backpack (Max 3 available)
 
