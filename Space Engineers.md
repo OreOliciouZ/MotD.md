@@ -63,6 +63,8 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 * A special role and channel visible for only you and your faction which also reflects the faction-game-chat in the Discord
 
+* 500 ingots of all available ingots
+
 **For 10.00€ you can purchase:**
 
 * includes the perks & reward of **Donator rank**
