@@ -81,11 +81,11 @@ For 25.00€ you can purchase:
 
 * We will provide you a Large Fleet Cruiser
 
-* 4000 ingots of all available ingots
-
 * 15x Dark Matter Core Keys
 
 * 2x Super Stargates
+
+* 4000 ingots of all available ingots
 
 Choose this options only with incredible generous intentions
 
