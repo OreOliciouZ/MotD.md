@@ -71,7 +71,7 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 * We will provide you a Large Miner
 
-* 5x Dark Matter Core Keys
+* 5x [Dark Matter Core Keys](https://steamcommunity.com/sharedfiles/filedetails/?id=2779614044)
 
 * 1000 ingots of all available ingots
 
@@ -81,7 +81,7 @@ For 25.00€ you can purchase:
 
 * We will provide you a Large Fleet Cruiser
 
-* 15x Dark Matter Core Keys
+* 15x [Dark Matter Core Keys](https://steamcommunity.com/sharedfiles/filedetails/?id=2779614044)
 
 * 2x Super Stargates
 
