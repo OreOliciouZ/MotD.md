@@ -70,7 +70,7 @@ As you maybe already know running a server like this never comes with cheap cost
 
 Either way i will offer now a subscription option with benefits. For now there will be only one option to donate money for the server. My PayPal account. 
 
-**For 5.00€ per month you receive the Donator rank:**
+**For 5.00€** you receive permanent the **Donator rank:**
 
 * Supporter role on Discord
 
