@@ -67,11 +67,9 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 * You'll get 5x Dark Matter Core Keys which will give you the ability to craft the Dark Matter Core
 
-**For 25.00€+ you will get:**
+* You will get 2x Super Stargates placed on the spot you wish, giving you the ability to warp your grids through it on the positions you've wished
 
 * All rewards above +
-
-* You will get 2x Super Stargates placed on the spot you wish, giving you the ability to warp your grids through it on the positions you've wished
 
 Choose this options only with incredible generous intentions
 
