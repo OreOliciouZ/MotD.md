@@ -63,7 +63,7 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 * A special role and channel visible for only you and your faction which also reflects the faction-game-chat in the Discord
 
-**For 15.00€ you can purchase:**
+**For 10.00€ you can purchase:**
 
 * includes the perks & reward of **Donator rank**
 
@@ -81,7 +81,7 @@ For 25.00€ you can purchase:
 
 * 4000 ingots of all available ingots
 
-* 10x Dark Matter Core Keys which will give you the ability to craft 2 of the Dark Matter Cores
+* 15x Dark Matter Core Keys which will give you the ability to craft 3 of the Dark Matter Cores
 
 * 2x Super Stargates placed on the spot you wish, giving you the ability to warp your grids through it on the positions you've wished
 
