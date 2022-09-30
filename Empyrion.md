@@ -205,27 +205,29 @@ All POI's & all ore deposits on the starter planets reset at
 
 |Solar System|Interval|
 |---|---:|
-|Alpha|6am/6pm GMT+1|
-|Apinzurim|6am/6pm GMT+1|
-|Beta|6am/6pm GMT+1|
-|Bansheraala|6am/6pm GMT+1|
-|Balbur-e|6am/6pm GMT+1|
-|Delta|6am/6pm GMT+1|
-|Draghero|6am/6pm GMT+1|
-|Draghenzu|6am/6pm GMT+1|
-|Epsilon|6am/6pm GMT+1|
-|Emichus|6am/6pm GMT+1|
-|Getuba|6am/6pm GMT+1|
-|Kasoloth|6am/6pm GMT+1|
-|Lixerewyn|6am/6pm GMT+1|
-|Nekelech|6am/6pm GMT+1|
-|Proco Beta|6am/6pm GMT+1|
-|Scarma Delta|6am/6pm GMT+1|
-|Surgachi|6am/6pm GMT+1|
-|Vapelratath|6am/6pm GMT+1|
-|Vepussa|6am/6pm GMT+1|
-|Zimigron|6am/6pm GMT+1|
-|Zizarek|6am/6pm GMT+1|
+|Alpha|6am/6pm|
+|Apinzurim|6am/6pm|
+|Beta|6am/6pm|
+|Bansheraala|6am/6pm|
+|Balbur-e|6am/6pm|
+|Delta|6am/6pm|
+|Draghero|6am/6pm|
+|Draghenzu|6am/6pm|
+|Epsilon|6am/6pm|
+|Emichus|6am/6pm|
+|Getuba|6am/6pm|
+|Kasoloth|6am/6pm|
+|Lixerewyn|6am/6pm|
+|Nekelech|6am/6pm|
+|Proco Beta|6am/6pm|
+|Scarma Delta|6am/6pm|
+|Surgachi|6am/6pm|
+|Vapelratath|6am/6pm|
+|Vepussa|6am/6pm|
+|Zimigron|6am/6pm|
+|Zizarek|6am/6pm|
+
+Server Timezone is GMT+1
 
 PLEASE DO NOT PLACE AUTOMINERS IN THE STARTER PLANETS OR THEY WILL BE LOST WHEN THE ORE DEPOSIT RESET KICKS IN AT SERVER RESTARTS!
 
