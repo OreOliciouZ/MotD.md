@@ -63,7 +63,7 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 * A special role and channel visible for only you and your faction which also reflects the faction-game-chat in the Discord
 
-* 100 ingots of all available ingots
+* 250 ingots of all available ingots
 
 **For 10.00€ you can purchase:**
 
@@ -85,7 +85,7 @@ For 25.00€ you can purchase:
 
 * 2x Super Stargates
 
-* 4000 ingots of all available ingots
+* 5000 ingots of all available ingots
 
 Choose this options only with incredible generous intentions
 
