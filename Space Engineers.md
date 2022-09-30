@@ -65,9 +65,19 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 **For 15.00€ you can purchase:**
 
-* Includes the perks & reward of **Donator rank**
+* includes the perks & reward of **Donator rank**
 
 * 1000 ingots of all available ingots
+
+* 5x Dark Matter Core Keys which will give you the ability to craft 1 of the Dark Matter Core
+
+For 25.00€ you can purchase:
+
+* includes the perks & reward of Donator rank
+
+* We will provide you a Fleet Cruiser
+
+* 4000 ingots of all available ingots
 
 * 10x Dark Matter Core Keys which will give you the ability to craft 2 of the Dark Matter Cores
 
