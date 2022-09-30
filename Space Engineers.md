@@ -71,9 +71,9 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 * We will provide you a Large Miner
 
-* 1000 ingots of all available ingots
+* 5x Dark Matter Core Keys
 
-* 5x Dark Matter Core Keys which will give you the ability to craft 1 of the Dark Matter Core
+* 1000 ingots of all available ingots
 
 For 25.00€ you can purchase:
 
@@ -83,9 +83,9 @@ For 25.00€ you can purchase:
 
 * 4000 ingots of all available ingots
 
-* 15x Dark Matter Core Keys which will give you the ability to craft 3 of the Dark Matter Cores
+* 15x Dark Matter Core Keys
 
-* 2x Super Stargates placed on the spot you wish, giving you the ability to warp your grids through it on the positions you've wished
+* 2x Super Stargates
 
 Choose this options only with incredible generous intentions
 
