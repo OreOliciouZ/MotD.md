@@ -201,7 +201,7 @@ Subject to automatic removal every once in a while:
 
 ## POIs and Ore Deposits
 
-All POI's & all ore deposits on the starter planets reset at
+All POI's & all ore deposits on the starter solar systems reset at
 
 |Solar System|Interval|
 |---|---:|
