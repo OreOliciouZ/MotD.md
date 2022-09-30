@@ -63,7 +63,7 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 * A special role and channel visible for only you and your faction which also reflects the faction-game-chat in the Discord
 
-**For 10.00€ you can purchase the Dark Matter Core Keys:**
+**For 15.00€ you can purchase the Dark Matter Core Keys:**
 
 * You'll get 5x Dark Matter Core Keys which will give you the ability to craft the Dark Matter Core
 
