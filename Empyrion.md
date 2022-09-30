@@ -203,24 +203,29 @@ Subject to automatic removal every once in a while:
 
 All POI's & all ore deposits on the starter planets reset at
 
-|Planet|Interval|
+|Solar System|Interval|
 |---|---:|
-|Haven|6am/6pm GMT+1|
-|Akua|6am/6pm GMT+1|
-|Tallodar|6am/6pm GMT+1|
-|Roggery|6am/6pm GMT+1|
-|Omicron|6am/6pm GMT+1|
-|Uai|6am/6pm GMT+1|
-|Ningues|6am/6pm GMT+1|
-|Pandora|6am/6pm GMT+1|
-|Oscutune|6am/6pm GMT+1|
-|Sienna|6am/6pm GMT+1|
-|Masperon|6am/6pm GMT+1|
-|Purgatory|6am/6pm GMT+1|
-|Dread|6am/6pm GMT+1|
-|Rogue J-5565|6am/6pm GMT+1|
-|Rogue PX-37|6am/6pm GMT+1|
-|Sharee|6am/6pm GMT+1|
+|Alpha|6am/6pm GMT+1|
+|Apinzurim|6am/6pm GMT+1|
+|Beta|6am/6pm GMT+1|
+|Bansheraala|6am/6pm GMT+1|
+|Balbur-e|6am/6pm GMT+1|
+|Delta|6am/6pm GMT+1|
+|Draghero|6am/6pm GMT+1|
+|Draghenzu|6am/6pm GMT+1|
+|Epsilon|6am/6pm GMT+1|
+|Emichus|6am/6pm GMT+1|
+|Getuba|6am/6pm GMT+1|
+|Kasoloth|6am/6pm GMT+1|
+|Lixerewyn|6am/6pm GMT+1|
+|Nekelech|6am/6pm GMT+1|
+|Proco Beta|6am/6pm GMT+1|
+|Scarma Delta|6am/6pm GMT+1|
+|Surgachi|6am/6pm GMT+1|
+|Vapelratath|6am/6pm GMT+1|
+|Vepussa|6am/6pm GMT+1|
+|Zimigron|6am/6pm GMT+1|
+|Zizarek|6am/6pm GMT+1|
 
 PLEASE DO NOT PLACE AUTOMINERS IN THE STARTER PLANETS OR THEY WILL BE LOST WHEN THE ORE DEPOSIT RESET KICKS IN AT SERVER RESTARTS!
 
