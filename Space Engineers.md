@@ -51,7 +51,7 @@ As you maybe already know running a server like this never comes with cheap cost
 
 Either way i will offer now a subscription option with benefits. For now there will be only one option to donate money for the server. My PayPal account. 
 
-**For 5.00€ per month, you receive the Donator rank on the server:**
+**For 5.00€ per month you receive the Donator rank:**
 
 * Donator role on Discord
 
@@ -67,9 +67,11 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 * Includes the perks & reward of **Donator rank**
 
-* You'll get 10x Dark Matter Core Keys which will give you the ability to craft 2 of the Dark Matter Cores
+* 1000 ingots of all available ingots
 
-* You will get 2x Super Stargates placed on the spot you wish, giving you the ability to warp your grids through it on the positions you've wished
+* 10x Dark Matter Core Keys which will give you the ability to craft 2 of the Dark Matter Cores
+
+* 2x Super Stargates placed on the spot you wish, giving you the ability to warp your grids through it on the positions you've wished
 
 Choose this options only with incredible generous intentions
 
