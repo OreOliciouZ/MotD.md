@@ -69,7 +69,7 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 * includes the perks & reward of **Donator rank**
 
-* We will provide you a Large Miner
+* We will provide you a Large Freighter
 
 * 5x [Dark Matter Core Keys](https://steamcommunity.com/sharedfiles/filedetails/?id=2779614044)
 
