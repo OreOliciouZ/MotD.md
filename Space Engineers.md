@@ -75,7 +75,7 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 * 1000 ingots of all available ingots
 
-For 25.00€ you can purchase:
+**For 25.00€ you can purchase:**
 
 * includes the perks & reward of Donator rank
 
