@@ -68,11 +68,11 @@ one command per vote possible, resets every 24h after the vote
 
 As you maybe already know running a server like this never comes with cheap costs. It'll need a lot of time to manage it and money ofc. I pay for this server rn and never did offer people to be able to support it. But now the time slowly comes that i cant take it alone anymore and want to offer packages for the server to support on the monthly fees i have to pay.
 
-Either way i will offer now a subscription option with benefits. For now there will be only one option to donate money for the server. My PayPal account. 
+Either way i will offer now donation options with benefits. For now there will be only one option to donate money for the server. My PayPal account. 
 
 **For 5.00€** you receive permanent the **Donator rank:**
 
-* Supporter role on Discord
+* Donator role on Discord
 
 * Ability to use the donators chat and voice chat, which is visible only for donators
 
