@@ -28,7 +28,7 @@ Vote for the [Missing Stars Server](https://space-engineers.com/server/193549/vo
 
 * No PCU limits
 * Each Vanilla turrets limit is 4x per grid
-* Each Mod turret types limit max is 4x per grid
+* Each Mod turrets limit is 4x per grid
 * [B&R](https://steamcommunity.com/sharedfiles/filedetails/?id=2178475890) is limited to 1x per player
 * [Defense Shields](https://steamcommunity.com/sharedfiles/filedetails/?id=1365616918) are limited to 1x per grid
 * For more information about our device limits open with K in game the terminal window and read the info
