@@ -184,10 +184,10 @@ Quick info about:
 
 Size Class Limits for every structure in a PvP playfield are set to:
 
-- Base: 5
-- CV: 3
-- SV: 2
-- HV: 2
+- Base: 10.49
+- CV: 7.49
+- SV: 5.49
+- HV: 5.49
 
 ## Player owned structures
 
