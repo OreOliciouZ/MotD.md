@@ -28,7 +28,6 @@ Vote for the [Missing Stars Server](https://space-engineers.com/server/193549/vo
 
 * No PCU limits
 * No Block limits
-* Only Device limits
 * Each turret type is limited to 4x per grid
 * [B&R](https://steamcommunity.com/sharedfiles/filedetails/?id=2178475890) 1x per player + grid
 * [Graver Sifter](https://steamcommunity.com/sharedfiles/filedetails/?id=2144596603) 4x per player + grid
