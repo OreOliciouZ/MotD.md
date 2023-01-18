@@ -35,7 +35,6 @@ Vote for the [Missing Stars Server](https://space-engineers.com/server/193549/vo
 * [Graver Sifter](https://steamcommunity.com/sharedfiles/filedetails/?id=2144596603) 4x per player + grid
 * [Laser Multitool](https://steamcommunity.com/sharedfiles/filedetails/?id=1694721473) 24x per player
 * [Defense Shields](https://steamcommunity.com/sharedfiles/filedetails/?id=1365616918) 1x per grid
-* [Ore Detectors](https://steamcommunity.com/sharedfiles/filedetails/?id=1653943631) 1x per grid
 * [Plant & Cook](https://steamcommunity.com/sharedfiles/filedetails/?id=2766774269) each blocktype 4x per grid
 * [More Pistons](https://steamcommunity.com/sharedfiles/filedetails/?id=1719832915) each blocktype 2x per player
 * For more information about our device limits type after placing the device !blocklimit mylimit
