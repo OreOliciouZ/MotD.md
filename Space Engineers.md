@@ -18,6 +18,8 @@ Vote for the [Missing Stars Server](https://space-engineers.com/server/193549/vo
 * No exploit using
 * No offline player grid raids
 * Voxels will reset same seed every restart around players and grids starting to reset from a distance of 2km
+* Areas with to much voxel damage will be reset to avoid deformation data increasment
+* Do not dig more then 200m and do not create insane huge tunnels in any direction
 * You can use the [Hangar](https://steamcommunity.com/sharedfiles/filedetails/?id=2015575529) mod to store for free your grids
 * All grids will be autohangar after 7 days of inactivity and remain for another 30 days in the hangar
 * No custom name Large/Small/Static grid will be removed automatically every 30min, you can use !cw autoname to avoid deletion
