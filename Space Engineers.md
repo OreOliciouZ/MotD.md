@@ -177,7 +177,13 @@ Resets when Owner/Admin knocks the door of them.
 
 !discord
 
-For more commands please visit our [Discord](https://discord.gg/asRaJG9zCc)
+!vote restart
+
+!blocklimit limits
+
+!blocklimit mylimit
+
+For more commands please visit our [Discord](https://discord.gg/asRaJG9zCc) or enter !longhelp
 
 ## Support
 
