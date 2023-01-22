@@ -114,6 +114,7 @@ Make sure to set up some auto turrets from early on!
 
 - Treat each other with respect
 - Fair fight
+- No Newbe raids
 - No offline raids
 
 ## Plugins
