@@ -18,6 +18,7 @@ Vote for the [Missing Stars Server](https://space-engineers.com/server/193549/vo
 * No exploit using
 * No offline player grid raids
 * Never spam more way conveyors
+* Projections are only on stations allowed
 * Using 2x [B&R](https://steamcommunity.com/sharedfiles/filedetails/?id=2178475890) on the same grid will lead to deletion and is strictly not tolerated no matter if it is through connector or merge block
 * Voxels will reset same seed every restart around players and grids starting to reset from a distance of 2km
 * Areas with to much voxel damage will be reset to avoid deformation data increasment
