@@ -137,6 +137,7 @@ You can profile yourself with `!lag profile` before the punishment.
 Following is some of general/typical measures to optimize your grids:
 
 * Never spam more way conveyors, if staff is telling you to remove or change it, just do it!
+* Never use a projection on a moving grid, simply convert it to a station
 * Less conveyor ports. Tubes (2x ports) are favorable to junctions (6x ports).
 * Less gas-related blocks. Vents, generators, tanks, hydrogen thrusters.
 * Less production blocks on a moving grid.
