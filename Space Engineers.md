@@ -86,8 +86,6 @@ Either way i will offer now a subscription option with benefits. For now there w
 
 * 15x [Dark Matter Core Keys](https://steamcommunity.com/sharedfiles/filedetails/?id=2779614044)
 
-* 2x Super Stargates
-
 * 5000 ingots of all available ingots
 
 Choose this options only with incredible generous intentions
