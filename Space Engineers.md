@@ -187,7 +187,7 @@ Resets when Owner/Admin knocks the door of them.
 
 * !vote restart
 
-(vote command for a restart of the game server)
+(vote command for a restart of the game server, 51% have to agree for a succesfull vote)
 
 * !blocklimit limits
 
