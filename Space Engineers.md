@@ -171,47 +171,47 @@ Resets when Owner/Admin knocks the door of them.
 
 * !steamvote
 
--to vote for rewards
+(to vote for rewards)
 
 * !reward
 
--to get your rewards for the vote
+(to get your rewards for the vote)
 
 * !motd
 
--server related all around information
+(server related all around information)
 
 * !discord
 
--to join our discord server
+(to join our discord server)
 
 * !vote restart
 
--vote command for a restart of the game server
+(vote command for a restart of the game server)
 
 * !blocklimit limits
 
--will show you your limits of the blocks you have placed
+(will show you your limits of the blocks you have placed)
 
 * !blocklimit mylimit
 
--will reveal all server block and device limits
+(will reveal all server block and device limits)
 
 * !blocklimit update mylimit
 
--will sync your current limits with the blocklimiter plugin
+(will sync your current limits with the blocklimiter plugin)
 
 * !convert
 
--to convert a ship into a station
+(to convert a ship into a station)
 
 * !stone
 
--you have to replace the drills name with this command and it will exclude stone
+(you have to replace the drills name with this command and it will exclude stone)
 
 /ds hud
 
--to reposition your shield HUD indicator
+(to reposition your shield HUD indicator, same command to close the configure window)
 
 For more commands please visit our [Discord](https://discord.gg/asRaJG9zCc) or enter !longhelp
 
