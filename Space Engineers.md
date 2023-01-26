@@ -170,36 +170,47 @@ Resets when Owner/Admin knocks the door of them.
 ## Chat Commands
 
 * !steamvote
+
 to vote for rewards
 
 * !reward
+
 to get your rewards for the vote
 
 * !motd
+
 server related all around information
 
 * !discord
+
 our discord server
 
 * !vote restart
+
 vote command for a restart of the game server
 
 * !blocklimit limits
+
 will show you your limits of the blocks you have placed
 
 * !blocklimit mylimit
+
 will reveal all server block and device limits
 
 * !blocklimit update mylimit
+
 will sync your current limits with the blocklimiter plugin
 
 * !convert
+
 to convert a ship into a station
 
 * !stone
+
 you have to replace the drills name with this command and it will exclude stone
 
 /ds hud
+
 to reposition your shield HUD indicator
 
 For more commands please visit our [Discord](https://discord.gg/asRaJG9zCc) or enter !longhelp
