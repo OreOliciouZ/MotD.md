@@ -191,11 +191,11 @@ Resets when Owner/Admin knocks the door of them.
 
 * !blocklimit limits
 
-(will show you your limits of the blocks you have placed)
+(will reveal all server block and device limits)
 
 * !blocklimit mylimit
 
-(will reveal all server block and device limits)
+(will show you your limits of the blocks you have placed)
 
 * !blocklimit update mylimit
 
