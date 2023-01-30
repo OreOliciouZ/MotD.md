@@ -94,6 +94,14 @@ I am really thankfull for every support and really appreciate it.
 
 PLEASE WRITE IN THE INFORMATION SECTION YOUR IGN AND WHICH GAME
 
+Disclaimer:
+
+Missing Stars is not associated with Keen Software House
+
+Please do not report any game bugs you experience to the developers of Keen Software House, unless you can reproduce it in a vanilla game!
+We are responsible for the content we host and share as donation options, so if you experience any problems in our game servers you have to open a ticket in our discord or write a us a e-mail:
+ms.missingstars@gmail.com
+
 https://www.paypal.com/donate/?hosted_button_id=FVN2XNE3GQ49C
 
 you can check the monthly cost for the server on our discord #donation channel 
