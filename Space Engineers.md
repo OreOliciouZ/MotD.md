@@ -32,7 +32,7 @@ Vote for the [Missing Stars Server](https://space-engineers.com/server/193549/vo
 ## LIMITS
 
 * No PCU limits
-* 20k Blocks max per grid
+* 10k Blocks max per grid
 * Each turret type is limited to 4x per grid
 * [B&R](https://steamcommunity.com/sharedfiles/filedetails/?id=2178475890) 1x per player and grid
 * For more information about our device limits type !blocklimit limits
