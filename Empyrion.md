@@ -116,7 +116,7 @@ Disclaimer:
 Missing Stars is not associated with Eleon Game Studios
 
 Please do not report any game bugs you experience to the developers of Eleon Game Studios, unless you can reproduce it in a vanilla game!
-We are responsible for the content we host and share as donation options, so if you experience any problems in our game servers you have to open a ticket in our discord or write us a e-mail:
+We are responsible for the content we host and share as donation options, so if you experience any problems in our game servers you have to open a ticket in our discord or write us an e-mail:
 ms.missingstars@gmail.com
 
 https://www.paypal.com/donate/?hosted_button_id=FVN2XNE3GQ49C
