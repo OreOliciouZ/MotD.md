@@ -17,8 +17,8 @@ Vote for the [Missing Stars Server](https://space-engineers.com/server/193549/vo
 * Treat everyone with respect, do not insult players
 * No exploit using
 * No offline player grid raids
-* Never spam more way conveyors
-* Projections are only on stations allowed
+* Never spam more way conveyors, each 6 port conveyor junction block which isnt need is unnecessary and does cause item requests every second from any port
+* Projections are only on stations allowed, before you project something aim at the grid and convert with !convert
 * Using 2x [B&R](https://steamcommunity.com/sharedfiles/filedetails/?id=2178475890) on the same grid will lead to deletion and is strictly not tolerated no matter if it is through connector or merge block
 * Voxels will reset same seed every restart around players and grids starting to reset from a distance of 200m
 * Areas with to much voxel damage will be reset to avoid deformation data increasment
