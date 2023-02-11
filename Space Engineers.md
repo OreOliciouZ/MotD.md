@@ -164,6 +164,7 @@ Subject to automatic removal every once in a while:
 |---|---:|
 |Respawn pods and rovers which havent got custom name|12 hours|
 |Grids that havent got custom name (eg. “Small Grid 9583”)|30 minutes|
+|Grids without battery or grid core|30 minutes|
 |Grids without owner|30 minutes|
 |NPC ships taken over by player without the name changed|30 minutes|
 
