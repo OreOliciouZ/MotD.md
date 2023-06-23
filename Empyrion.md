@@ -235,6 +235,8 @@ All POI's & all ore deposits on the starter solar systems reset at
 |Zimigron|6am/6pm|
 |Zizarek|6am/6pm|
 
+Everything outside these playfields and sectors does reset how the scenario is made, we do no changes on regeneration timers
+
 Server Timezone is GMT+1
 
 PLEASE DO NOT PLACE AUTOMINERS IN THE STARTER PLANETS OR THEY WILL BE LOST WHEN THE ORE DEPOSIT RESET KICKS IN AT SERVER RESTARTS!
