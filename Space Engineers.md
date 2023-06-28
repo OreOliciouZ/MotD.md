@@ -10,7 +10,7 @@ Vote for the [Missing Stars Server](https://space-engineers.com/server/193549/vo
 
 |Last Wipe|Next Wipe|
 
-|21.01.2023|No ETA|
+|12.05.2023|01.09.2023|
 
 ## GAME RULES
 
