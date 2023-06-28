@@ -10,7 +10,7 @@ Vote for the [Missing Stars Server](https://empyrion-servers.com/server/53641/vo
 
 |Last Wipe|Next Wipe|
 
-|23.09.2022|No ETA|
+|28.06.2023|01.09.2023|
 
 ## GAME RULES
 
