@@ -25,7 +25,7 @@ Vote for the [Missing Stars Server](https://space-engineers.com/server/193549/vo
 * Do not dig more then 200m and do not create insane huge tunnels in any direction
 * You can use the [Hangar](https://steamcommunity.com/sharedfiles/filedetails/?id=2015575529) mod to store for free your grids
 * All grids will be autohangar after 7 days of inactivity and remain for another 30 days in the hangar
-* No custom name Large/Small/Static grid will be removed automatically every 30min, you can use !cw autoname to avoid deletion
+* No custom name Large/Small/Static grid will be removed automatically every 60min, also make sure to add a grid core or battery
 * Respawn ships are set to auto delete on each server restart
 * Rules are subject to change
 
